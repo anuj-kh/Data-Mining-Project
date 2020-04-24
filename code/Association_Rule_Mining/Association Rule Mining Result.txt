@@ -1,0 +1,36 @@
+1. [Call Dropped] -> [1]
+Support : 0.06280717906592756 Confidence : 0.819250683158349 Lift : 4.390877200705252
+
+2. [2] -> [Poor Voice Quality]
+Support : 0.0783704589872015 Confidence : 0.8642429400857221 Lift : 3.7362950291426698
+
+3. [4G, Call Dropped] -> [1]
+Support : 0.04227114728883033 Confidence : 0.8097475974231704 Lift : 4.339944216029451
+
+4. [Indoor, Call Dropped] -> [1]
+Support : 0.04728800337397354 Confidence : 0.8296658122551627 Lift : 4.446698396626991
+
+5. [2, 4G] -> [Poor Voice Quality]
+Support : 0.054689244356726036 Confidence : 0.8775654635527247 Lift : 3.793890961833148
+
+6. [2, Indoor] -> [Poor Voice Quality]
+Support : 0.04720530794399865 Confidence : 0.8463477315409705 Lift : 3.658930464585631
+
+7. [4, RJio] -> [Satisfactory, 4G]
+Support : 0.12284681774202885 Confidence : 0.9924507293174479 Lift : 1.9295794405329134
+
+8. [5, RJio] -> [Satisfactory, 4G]
+Support : 0.1766236558546986 Confidence : 0.9942432424044936 Lift : 1.9330645469442194
+
+9. [4, Maharashtra, RJio] -> [Satisfactory, 4G]
+Support : 0.041623366420693704 Confidence : 0.9897096414760438 Lift : 1.9242500608597222
+
+10. [Indoor, 4, RJio] -> [Satisfactory, 4G]
+Support : 0.07520322401916328 Confidence : 0.9933008082720454 Lift : 1.9312322126304755
+
+11. [Outdoor, 5, RJio] -> [Satisfactory, 4G]
+Support : 0.042836232726992066 Confidence : 0.9936061381074169 Lift : 1.9318258523503227
+
+12. [Indoor, 5, RJio] -> [Satisfactory, 4G]
+Support : 0.1106106506200779 Confidence : 0.9943501424854417 Lift : 1.93327238819245
+

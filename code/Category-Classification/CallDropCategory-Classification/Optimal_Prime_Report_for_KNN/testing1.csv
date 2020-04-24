@@ -1,0 +1,129 @@
+Operator,In Out Travelling,Network Type,Rating,Call Drop Category,Latitude,Longitude,State Name
+RJio,Travelling,4G,4,2,14.91332118,79.9937972,Andhra Pradesh
+Airtel,Travelling,4G,1,2,19.9373255,73.53618993,Maharashtra
+RJio,Indoor,4G,2,2,9.426250956,77.80240493,Tamil Nadu
+RJio,Indoor,4G,5,2,25.62596263,85.09411065,Bihar
+Airtel,Indoor,4G,1,1,13.0102521,77.7034024,Karnataka
+RJio,Indoor,4G,1,1,28.5903277,76.99763329,NCT
+RJio,Indoor,4G,1,1,28.5903277,76.99763329,NCT
+RJio,Indoor,4G,2,1,28.52105051,77.08146611,Haryana
+Idea,Indoor,3G,5,2,22.71721167,75.87474667,Madhya Pradesh
+BSNL,Indoor,4G,5,2,12.750605,77.8454152,Tamil Nadu
+BSNL,Indoor,4G,4,2,12.7498889,77.8449504,Tamil Nadu
+BSNL,Indoor,4G,4,2,12.7354769,77.8264306,Tamil Nadu
+BSNL,Outdoor,4G,4,2,12.6832412,77.87870174,Tamil Nadu
+BSNL,Indoor,4G,4,2,12.6832412,77.87870174,Tamil Nadu
+BSNL,Outdoor,4G,4,2,12.68349274,77.87891139,Tamil Nadu
+RJio,Indoor,4G,4,2,20.003349,85.6443336,Odisha
+RJio,Indoor,4G,3,2,13.0296095,80.2627581,Tamil Nadu
+Vodafone,Travelling,3G,3,2,31.32936486,75.59352364,Punjab
+RJio,Outdoor,4G,5,2,23.06571877,72.55931775,Gujarat
+Airtel,Indoor,3G,4,2,12.81619889,77.68601875,Karnataka
+Idea,Indoor,4G,1,1,22.7143074,75.873752,Madhya Pradesh
+RJio,Indoor,4G,3,2,13.0296095,80.2627581,Tamil Nadu
+Airtel,Outdoor,4G,5,2,11.01737669,76.92036076,Tamil Nadu
+Airtel,Indoor,4G,1,1,13.0102814,77.7033824,Karnataka
+Airtel,Indoor,3G,2,1,13.0106482,77.703372,Karnataka
+Airtel,Outdoor,3G,4,2,28.62590026,77.02795629,NCT
+RJio,Travelling,4G,4,2,23.27270342,77.38279394,Madhya Pradesh
+Vodafone,Indoor,4G,4,2,28.64352992,77.45091642,Uttar Pradesh
+Idea,Indoor,2G,5,2,22.7026155,73.1166136,Gujarat
+RJio,Indoor,4G,5,2,13.0419109,77.6121254,Karnataka
+Airtel,Indoor,3G,5,2,13.02635641,77.5717463,Karnataka
+RJio,Indoor,4G,2,0,13.0296095,80.2627581,Tamil Nadu
+RJio,Indoor,4G,1,1,28.52117758,77.08168983,Haryana
+RJio,Indoor,4G,3,2,10.8157561,79.8407309,Tamil Nadu
+Idea,Indoor,4G,1,2,23.23343815,77.40599946,Madhya Pradesh
+Idea,Outdoor,3G,1,2,22.9964172,77.0545238,Madhya Pradesh
+RJio,Indoor,4G,5,2,20.28796535,85.86501514,Odisha
+RJio,Outdoor,4G,4,2,20.65877575,75.34914542,Maharashtra
+BSNL,Indoor,3G,1,1,23.189381,77.4174622,Madhya Pradesh
+RJio,Travelling,4G,3,2,21.4205386,78.9020748,Maharashtra
+RJio,Indoor,4G,1,0,17.49839773,78.32461659,Telangana
+Idea,Indoor,4G,4,2,17.3686122,78.4283332,Telangana
+Vodafone,Outdoor,4G,5,2,22.2995444,70.7841296,Gujarat
+MTNL,Outdoor,3G,3,1,19.69019,72.76955,Maharashtra
+Vodafone,Outdoor,4G,5,2,19.20696393,73.00276242,Maharashtra
+Airtel,Indoor,4G,5,2,31.64820857,74.87510489,Punjab
+RJio,Indoor,4G,4,2,12.9911095,77.5494791,Karnataka
+RJio,Indoor,4G,1,1,28.52117758,77.08168983,Haryana
+RJio,Indoor,4G,2,1,28.52117758,77.08168983,Haryana
+RJio,Outdoor,4G,4,2,23.8230583,86.477382,Jharkhand
+RJio,Indoor,4G,3,2,12.9306059,77.58652424,Karnataka
+Airtel,Indoor,3G,1,2,17.497098,78.3274265,Telangana
+Idea,Indoor,3G,1,2,22.9964172,77.0545238,Madhya Pradesh
+RJio,Indoor,4G,3,0,17.49667425,78.39682245,Telangana
+RJio,Outdoor,4G,4,2,19.38085903,74.85639657,Maharashtra
+RJio,Indoor,4G,5,2,15.505192,80.0295642,Andhra Pradesh
+RJio,Outdoor,4G,4,2,23.22752249,77.43230787,Madhya Pradesh
+Airtel,Indoor,4G,1,1,28.71950592,77.15448909,NCT
+RJio,Indoor,4G,4,2,20.67366618,75.35418684,Maharashtra
+Airtel,Outdoor,4G,5,2,28.5709959,77.38676553,Uttar Pradesh
+Vodafone,Outdoor,3G,5,2,23.80778,87.80579333,West Bengal
+RJio,Travelling,4G,1,1,17.92749548,73.97568658,Maharashtra
+Vodafone,Outdoor,4G,5,2,23.80778,87.80579333,West Bengal
+RJio,Indoor,4G,2,2,23.25773093,77.3977995,Madhya Pradesh
+Vodafone,Outdoor,3G,5,2,23.80778,87.80579333,West Bengal
+Vodafone,Indoor,3G,3,1,12.9477943,77.7124105,Karnataka
+Airtel,Indoor,4G,5,2,28.68635597,77.30190085,Uttar Pradesh
+RJio,Indoor,4G,1,0,26.74812132,88.44300825,West Bengal
+RJio,Outdoor,4G,5,2,23.8230583,86.477382,Jharkhand
+Airtel,Indoor,4G,1,0,12.9130315,80.0889864,Tamil Nadu
+Airtel,Indoor,4G,5,2,12.8818838,77.7346569,Karnataka
+Vodafone,Indoor,4G,2,0,28.74196333,77.12890833,NCT
+Airtel,Indoor,2G,1,1,27.6264406,78.128753,Uttar Pradesh
+RJio,Indoor,4G,5,2,17.4955095,78.3954097,Telangana
+RJio,Indoor,4G,4,2,12.991105,77.549476,Karnataka
+Idea,Outdoor,4G,1,0,19.2335367,73.1535007,Maharashtra
+Vodafone,Indoor,3G,4,2,21.1338708,72.80352191,Gujarat
+RJio,Indoor,4G,3,1,19.16595128,77.31552149,Maharashtra
+RJio,Indoor,4G,2,1,17.5131126,78.4757565,Telangana
+RJio,Indoor,4G,5,2,20.28796535,85.86501514,Odisha
+RJio,Indoor,4G,3,2,12.22115222,79.05491083,Tamil Nadu
+RJio,Indoor,4G,3,2,12.22115222,79.05491083,Tamil Nadu
+RJio,Indoor,4G,3,2,12.22109851,79.05494267,Tamil Nadu
+BSNL,Indoor,3G,5,2,21.24622532,81.64724279,Chhattisgarh
+Airtel,Indoor,3G,4,2,13.0173861,77.6853495,Karnataka
+Airtel,Indoor,3G,1,0,22.74704865,75.90686171,Madhya Pradesh
+RJio,Outdoor,4G,1,2,17.46877667,78.44327167,Telangana
+RJio,Indoor,4G,4,2,15.5026596,80.0375992,Andhra Pradesh
+BSNL,Indoor,3G,5,2,22.63239802,88.37334733,West Bengal
+Airtel,Indoor,4G,5,2,19.38662069,72.82344406,Maharashtra
+RJio,Outdoor,4G,1,1,23.8186383,86.4789619,Jharkhand
+RJio,Outdoor,4G,5,2,23.8186383,86.4789619,Jharkhand
+Idea,Travelling,3G,3,2,29.19262028,79.5083632,Uttarakhand
+RComm,Indoor,2G,1,1,19.19778376,72.79758665,Maharashtra
+RComm,Indoor,2G,1,1,12.246956,-69.065625,NA
+RJio,Travelling,4G,4,2,19.38449194,74.79339467,Maharashtra
+Airtel,Indoor,3G,1,1,28.71950592,77.15448909,NCT
+Vodafone,Travelling,4G,4,2,19.09174552,72.86152023,Maharashtra
+RJio,Indoor,4G,5,2,20.28796535,85.86501514,Odisha
+RJio,Indoor,4G,3,2,22.79775142,86.2039412,Jharkhand
+Airtel,Indoor,3G,4,2,13.0173686,77.6853533,Karnataka
+Airtel,Indoor,3G,5,2,13.01739335,77.68534713,Karnataka
+Vodafone,Indoor,3G,3,2,23.80778,87.80579333,West Bengal
+Vodafone,Indoor,4G,4,2,12.28011682,76.64656946,Karnataka
+RJio,Indoor,4G,5,2,20.28796535,85.86501514,Odisha
+RJio,Outdoor,4G,4,2,23.22743365,77.43115807,Madhya Pradesh
+RJio,Outdoor,4G,1,0,19.0703369,73.0120357,Maharashtra
+Vodafone,Travelling,2G,5,2,31.9209775,75.6223005,Punjab
+Vodafone,Travelling,2G,5,2,31.9209775,75.6223005,Punjab
+Vodafone,Travelling,2G,5,2,31.9209775,75.6223005,Punjab
+Airtel,Travelling,2G,5,2,27.2110491,77.9519576,Uttar Pradesh
+Airtel,Indoor,2G,5,2,27.2091482,77.9495311,Uttar Pradesh
+Airtel,Indoor,2G,5,2,27.2084891,77.9493809,Uttar Pradesh
+RJio,Outdoor,4G,5,2,12.92058604,77.61719308,Karnataka
+Idea,Indoor,4G,3,2,9.753461667,76.52002667,Kerala
+Idea,Indoor,4G,3,2,9.752953333,76.51948,Kerala
+RJio,Outdoor,4G,4,2,19.76810811,74.47830253,Maharashtra
+RJio,Indoor,4G,4,2,20.67363065,75.35415091,Maharashtra
+RJio,Travelling,4G,5,2,22.48055306,88.39408452,West Bengal
+RJio,Indoor,4G,2,0,22.1892167,78.6661395,Madhya Pradesh
+RJio,Indoor,4G,2,2,23.2576927,77.3972509,Madhya Pradesh
+RJio,Indoor,4G,5,2,23.12841511,79.92962541,Madhya Pradesh
+RJio,Indoor,4G,4,2,26.8885254,75.7648395,Rajasthan
+RJio,Indoor,4G,4,2,26.8885254,75.7648395,Rajasthan
+RJio,Outdoor,4G,1,1,26.75344922,75.85028617,Rajasthan
+RJio,Outdoor,4G,3,1,26.89203316,75.7257245,Rajasthan
+RJio,Indoor,4G,4,2,23.8031141,86.4495668,Jharkhand
+Idea,Outdoor,4G,1,1,19.2699602,72.9642469,Maharashtra
